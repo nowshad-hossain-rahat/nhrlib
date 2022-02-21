@@ -7,7 +7,7 @@ using namespace std;
 /****************************************************************
  * Libray Name      :   nhrlib
  * Author           :   Nowshad Hossain Rahat
- * Version          :   0.1
+ * Version          :   1.0.0
  * Header Files     :   array.hpp, map.hpp
  * License          :   MIT
  ****************************************************************/
